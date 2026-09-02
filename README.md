@@ -19,6 +19,7 @@ cd bolsa-trabajo-senati
 ```
 
 #BACKEND
+
 ```
 cd backend
 npm install
@@ -26,6 +27,7 @@ npm run dev
 ```
 
 El puerto de MySQL (XAMPP) es 3306, el servidor backend se ejecutará en: http://localhost:3000 asi que saldra:
+
 ```
 Servidor en http://localhost:3000
 Vacantes: http://localhost:3000/api/vacantes
@@ -33,12 +35,15 @@ Empresas: http://localhost:3000/api/empresas
 KPIs: http://localhost:3000/api/kpis
 Conectado a MySQL de XAMPP!
 ```
+
 #FRONTEND
+
 ```
 cd frontend
 npm install
 npm run dev
 ```
+
 mientras el ```chadnc/ui```:
 ```
 ⚠ Port 3000 is in use by process 4540, using available port 3001 instead.
