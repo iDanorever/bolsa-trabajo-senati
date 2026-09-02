@@ -24,28 +24,20 @@ cd backend
 npm install
 npm run dev
 ```
-#FRONTEND
-```
-cd frontend
-npm install
-npm run dev
-```
-#CREDENCIALES DE PRUEBA
-- Email: ```daniel@senati.pe```
-- Contraseña: ```123456```
 
-#INICIO DE PROYECTO
-el proyecto se inicia por:
-```
-http://localhost:3001/login
-```
-debido a que: el puerto ```xampp``` es 3306 y esta corriendo el:
+El puerto de MySQL (XAMPP) es 3306, el servidor backend se ejecutará en: http://localhost:3000 asi que saldra:
 ```
 Servidor en http://localhost:3000
 Vacantes: http://localhost:3000/api/vacantes
 Empresas: http://localhost:3000/api/empresas
 KPIs: http://localhost:3000/api/kpis
 Conectado a MySQL de XAMPP!
+```
+#FRONTEND
+```
+cd frontend
+npm install
+npm run dev
 ```
 mientras el ```chadnc/ui```:
 ```
@@ -55,6 +47,15 @@ mientras el ```chadnc/ui```:
 - Network:       http://192.168.1.46:3001
 ✓ Ready in 580ms
 ```
+#INICIO DE PROYECTO
+el proyecto se inicia por:
+```
+http://localhost:3001/login
+```
+#CREDENCIALES DE PRUEBA
+- Email: ```daniel@senati.pe```
+- Contraseña: ```123456```
+
 ---
 
 # ⚙️ Principales Desafíos y Mejoras Implementadas
