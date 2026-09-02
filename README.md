@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-El puerto de MySQL (XAMPP) es 3306, el servidor backend se ejecutará en: ```http://localhost:3000``` asi que saldra:
+El puerto de MySQL (XAMPP) es 3306, el servidor backend se ejecutará en: ```http://localhost:3000``` dira:
 
 ```
 Servidor en http://localhost:3000
@@ -44,7 +44,7 @@ npm install
 npm run dev
 ```
 
-mientras el ```chadnc/ui```:
+mientras el ```chadnc/ui``` dira:
 ```
 ⚠ Port 3000 is in use by process 4540, using available port 3001 instead.
 ▲ Next.js 16.3.4 (Turbopack)
