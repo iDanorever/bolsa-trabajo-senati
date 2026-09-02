@@ -18,22 +18,43 @@ git clone https://github.com/iDanorever/bolsa-trabajo-senati/tree/main
 cd bolsa-trabajo-senati
 ```
 
-#**BACKEND**
+#BACKEND
 ```
 cd backend
 npm install
 npm run dev
 ```
-#**FRONTEND**
+#FRONTEND
 ```
 cd frontend
 npm install
 npm run dev
 ```
-#**CREDENCIALES DE PRUEBA**
+#CREDENCIALES DE PRUEBA
 - Email: ```daniel@senati.pe```
 - Contraseña: ```123456```
 
+#INICIO DE PROYECTO
+el proyecto se inicia por:
+```
+http://localhost:3001/login
+```
+debido a que: el puerto ```xampp``` es 3006 y esta corriendo el:
+```
+Servidor en http://localhost:3000
+Vacantes: http://localhost:3000/api/vacantes
+Empresas: http://localhost:3000/api/empresas
+KPIs: http://localhost:3000/api/kpis
+Conectado a MySQL de XAMPP!
+```
+mientras el ```chadnc/ui```:
+```
+⚠ Port 3000 is in use by process 4540, using available port 3001 instead.
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.1.46:3001
+✓ Ready in 580ms
+```
 ---
 
 # ⚙️ Principales Desafíos y Mejoras Implementadas
