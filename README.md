@@ -39,7 +39,7 @@ el proyecto se inicia por:
 ```
 http://localhost:3001/login
 ```
-debido a que: el puerto ```xampp``` es 3006 y esta corriendo el:
+debido a que: el puerto ```xampp``` es 3306 y esta corriendo el:
 ```
 Servidor en http://localhost:3000
 Vacantes: http://localhost:3000/api/vacantes
