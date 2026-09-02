@@ -53,7 +53,7 @@ mientras el ```chadnc/ui```:
 ✓ Ready in 580ms
 ```
 **INICIO DE PROYECTO**
-el proyecto se inicia por:
+- el proyecto se inicia por:
 ```
 http://localhost:3001/login
 ```
