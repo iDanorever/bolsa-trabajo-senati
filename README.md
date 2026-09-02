@@ -14,7 +14,7 @@ Este proyecto es una aplicación web desarrollada para el curso de Desarrollo de
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/bolsa-senati.git](https://github.com/iDanorever/bolsa-trabajo-senati/tree/main
+git clone https://github.com/iDanorever/bolsa-trabajo-senati/tree/main
 cd bolsa-senati
 ```
 
