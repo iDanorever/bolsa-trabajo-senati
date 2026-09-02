@@ -18,7 +18,7 @@ git clone https://github.com/iDanorever/bolsa-trabajo-senati/tree/main
 cd bolsa-trabajo-senati
 ```
 
-#BACKEND
+**BACKEND**
 
 ```
 cd backend
@@ -36,7 +36,7 @@ KPIs: http://localhost:3000/api/kpis
 Conectado a MySQL de XAMPP!
 ```
 
-#FRONTEND
+**FRONTEND**
 
 ```
 cd frontend
