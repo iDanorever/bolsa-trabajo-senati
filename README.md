@@ -35,7 +35,7 @@ Empresas: http://localhost:3000/api/empresas
 KPIs: http://localhost:3000/api/kpis
 Conectado a MySQL de XAMPP!
 ```
-
+---
 **FRONTEND**
 
 ```
