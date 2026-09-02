@@ -52,12 +52,12 @@ mientras el ```chadnc/ui```:
 - Network:       http://192.168.1.46:3001
 ✓ Ready in 580ms
 ```
-#INICIO DE PROYECTO
+**INICIO DE PROYECTO**
 el proyecto se inicia por:
 ```
 http://localhost:3001/login
 ```
-#CREDENCIALES DE PRUEBA
+**CREDENCIALES DE PRUEBA DE PAGINA WEB**
 - Email: ```daniel@senati.pe```
 - Contraseña: ```123456```
 
