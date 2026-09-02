@@ -26,7 +26,7 @@ npm install
 npm run dev
 ```
 
-El puerto de MySQL (XAMPP) es 3306, el servidor backend se ejecutará en: http://localhost:3000 asi que saldra:
+El puerto de MySQL (XAMPP) es 3306, el servidor backend se ejecutará en: ```http://localhost:3000``` asi que saldra:
 
 ```
 Servidor en http://localhost:3000
