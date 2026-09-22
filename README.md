@@ -144,9 +144,9 @@ este trabajo e realizado con apoyo de algunos videos que lograron acabar hasta a
 - https://youtu.be/jMy4pVZMyLM?si=X_0QHXe3IHsrMUTC - aprendiendo next.js para principiante paso a paso
 - https://youtu.be/JmJ1WUoUIK4?si=5Vcu68oQDAL6qqtB - Express Framework de Nodejs, Curso para principiantes
 
-# 🖼️ IMAGES PROJECT
+# 🖼️ IMAGES AND VIDEOS OF THE PROJECT
 
 ![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/71c5581663ac7fc14d2cb817221d7a1678d9e02c/Screenshot%202026-09-22%20162430.png)
 ![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/6a553bb1dd7b2af726bad2191a4860aaf688bfc9/Screenshot%202026-09-22%20162506.png)
 ![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/1b6d1d2bb6659ed7f17bc85d2a26436938de3249/Screenshot%202026-09-22%20162511.png)
-
+![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/fe29cb9c4d81fe3e23f5018411d8ee89eb2028ab/Screenshot%202026-09-22%20162520.png)
