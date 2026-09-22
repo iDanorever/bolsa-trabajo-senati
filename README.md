@@ -148,4 +148,5 @@ este trabajo e realizado con apoyo de algunos videos que lograron acabar hasta a
 
 ![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/71c5581663ac7fc14d2cb817221d7a1678d9e02c/Screenshot%202026-09-22%20162430.png)
 ![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/6a553bb1dd7b2af726bad2191a4860aaf688bfc9/Screenshot%202026-09-22%20162506.png)
+![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/1b6d1d2bb6659ed7f17bc85d2a26436938de3249/Screenshot%202026-09-22%20162511.png)
 
