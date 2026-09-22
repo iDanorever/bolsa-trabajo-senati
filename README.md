@@ -143,3 +143,6 @@ este trabajo e realizado con apoyo de algunos videos que lograron acabar hasta a
 - https://www.youtube.com/live/2jxc8DMzt0I?si=mI_LJDlWMOsATWP3 - Curso de Next.js
 - https://youtu.be/jMy4pVZMyLM?si=X_0QHXe3IHsrMUTC - aprendiendo next.js para principiante paso a paso
 - https://youtu.be/JmJ1WUoUIK4?si=5Vcu68oQDAL6qqtB - Express Framework de Nodejs, Curso para principiantes
+
+# 🖼️ IMAGES PROJECT
+
