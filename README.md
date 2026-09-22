@@ -146,3 +146,4 @@ este trabajo e realizado con apoyo de algunos videos que lograron acabar hasta a
 
 # 🖼️ IMAGES PROJECT
 
+![image alt](https://github.com/iDanorever/bolsa-trabajo-senati/blob/71c5581663ac7fc14d2cb817221d7a1678d9e02c/Screenshot%202026-09-22%20162430.png)
